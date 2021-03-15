@@ -1,0 +1,3 @@
+{'ID': '1001', 'Name': 'Echo', 'EnGrade': 100, 'PyGrade': 100, 'JavaGrade': 100}
+{'ID': '1002', 'Name': 'Echo', 'EnGrade': 100, 'PyGrade': 90, 'JavaGrade': 90}
+{'ID': '1003', 'Name': '安安', 'EnGrade': 90, 'PyGrade': 90, 'JavaGrade': 90}
